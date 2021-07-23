@@ -3,7 +3,7 @@
   
 > "Nenhum problema é tão grande, que não possa ser dividido em pequenas etapas"
 
----
+
 
 ### 👨‍💻 Sobre mim:
 
@@ -11,7 +11,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaosinixtro&layout=compact)](https://github.com/JoaoSinixtro/github-readme-stats)
 
----
+
 
 ### 🖥️ Tecnologias que estudei/estou estudando:
 
