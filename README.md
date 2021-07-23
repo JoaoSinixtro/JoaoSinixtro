@@ -6,7 +6,7 @@
 
 ### 👨‍💻 Sobre mim:
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/JoaoSinixtro)](https://github.com/JoaoSinixtro)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaosinixtro)](https://github.com/JoaoSinixtro/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaosinixtro&layout=compact)](https://github.com/JoaoSinixtro/github-readme-stats)
 
